@@ -13,6 +13,14 @@ My projects:
 <img src="https://github-readme-stats.vercel.app/api?username=gen1us2k&show_icons=true&count_private=true" align="right" />
 
 
+Skills I use in leadership:
+
+1. Coaching
+2. Facilitation
+3. Goal setting
+4. Servant leadership style (I’m here to guide and help you)
+
+
 <!--
 **gen1us2k/gen1us2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
