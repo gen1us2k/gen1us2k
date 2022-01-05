@@ -8,6 +8,8 @@ My projects:
 2. [Andrew Minkin](https://www.youtube.com/channel/UC1ctnuRGUUXe04EgbsYXwPQ) - is a YouTube channel about programming (I do 'For Azeroth' podcast while I playing World Of Warcraft, 'OnlySource' - English speaking content about building something amazing using Go or Python programming languages). Also I stream my talks from conferences and store at my channel
 3. You can ping me on telegram [@Gen1us2k](https://t.me/Gen1us2k)
 4. For Russian speaking friends I write on [Habr](https://habr.com/ru/users/Gen1us2k/)
+5. [My sketchs and portraits](https://www.deviantart.com/gen1us2k) (from early 2010)
+6. In [Strava](https://www.strava.com/athletes/20342935) I post my workouts (Running or cycling mostly)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gen1us2k&show_icons=true&count_private=true" align="right" />
