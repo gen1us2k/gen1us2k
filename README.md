@@ -9,6 +9,10 @@ My projects:
 3. You can ping me on telegram [@Gen1us2k](https://t.me/Gen1us2k)
 4. For Russian speaking friends I write on [Habr](https://habr.com/ru/users/Gen1us2k/)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=gen1us2k&show_icons=true&count_private=true" align="right" />
+
+
 <!--
 **gen1us2k/gen1us2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
